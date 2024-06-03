@@ -21,10 +21,10 @@
 </div>
 
 ---
-<div style="text-align: center;"></div>
+<div style="text-align: center;">
     <h2>Viens discuter sur discord :</h2>
     <a href="https://discord.com/users/884846455431503882">
-        <img src="https://lanyard.cnrad.dev/api/884846455431503882?idleMessage=Je ne fais rien de spécial en ce moment !" alt="Profil Discord">
+        <img src="https://lanyard.cnrad.dev/api/884846455431503882?idleMessage=Je%20ne%20fais%20rien%20de%20spécial%20en%20ce%20moment%20!" alt="Profil Discord">
     </a>
 </div>
 
