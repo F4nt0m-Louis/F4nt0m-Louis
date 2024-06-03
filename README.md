@@ -18,17 +18,13 @@
     <a href="#github_stats">
         <img src="https://github-readme-stats.vercel.app/api?username=F4nt0m-Louis&show_icons=true&theme=github_dark" alt="Statistiques GitHub de F4nt0m-Louis">
     </a>
-    <a href="#top-langs">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F4nt0m-Louis&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
-            height="192px" alt="Utilisation des langages de programmation">
-    </a>
 </div>
 
 ---
 <div style="text-align: center;"></div>
     <h2>Viens discuter sur discord :</h2>
     <a href="https://discord.com/users/884846455431503882">
-        <img src="https://lanyard.cnrad.dev/api/884846455431503882" alt="Profil Discord">
+        <img src="https://lanyard.cnrad.dev/api/884846455431503882?idleMessage=Je%ne%fais%rien%de%spécial%en%ce%moment%!" alt="Profil Discord">
     </a>
 </div>
 
