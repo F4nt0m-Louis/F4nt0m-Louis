@@ -1,6 +1,7 @@
 <div style="text-align: center;">
     <h1>Hey 👋</h1>
 </div>
+
 ---
 <div style="text-align: center;">
     <h2>A propos de moi :</h2>
@@ -10,6 +11,7 @@
         <li>Voici mon Bot Actuel: <a href="https://discord.com/api/oauth2/authorize?client_id=1087681079093252147&permissions=8&scope=bot%20applications.commands">Ajouter ElfBot</a> (modération, compteur de nombre, partenariats)</li>
     </ul>
 </div>
+
 ---
 <div style="text-align: center;">
     <h2>Statistiques Github :</h2>
@@ -21,6 +23,7 @@
             height="192px" alt="Utilisation des langages de programmation">
     </a>
 </div>
+
 ---
 <div style="text-align: center;"></div>
     <h2>Viens discuter sur discord :</h2>
@@ -28,4 +31,5 @@
         <img src="https://lanyard.cnrad.dev/api/884846455431503882" alt="Profil Discord">
     </a>
 </div>
+
 ---
