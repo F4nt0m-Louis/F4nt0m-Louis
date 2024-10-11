@@ -19,13 +19,3 @@
         <img src="https://github-readme-stats.vercel.app/api?username=F4nt0m-Louis&show_icons=true&theme=github_dark" alt="Statistiques GitHub de F4nt0m-Louis">
     </a>
 </div>
-
----
-<div style="text-align: center;">
-    <h2>Viens discuter sur discord :</h2>
-    <a href="https://discord.com/users/884846455431503882">
-        <img src="https://lanyard.cnrad.dev/api/884846455431503882?idleMessage=Je%20ne%20fais%20rien%20de%20spécial%20en%20ce%20moment%20!&showDisplayName=true&borderRadius=20px" alt="Profil Discord">
-    </a>
-</div>
-
----
